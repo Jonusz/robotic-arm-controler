@@ -1,0 +1,31 @@
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Caban\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\jeszczeJednaKopia\WindowsFormsApp1 — kopia\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\jeszczeJednaKopia\WindowsFormsApp1 — kopia\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\jeszczeJednaKopia\WindowsFormsApp1 — kopia\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\jeszczeJednaKopia\WindowsFormsApp1 — kopia\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\jeszczeJednaKopia\WindowsFormsApp1 — kopia\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\janusz\Desktop\studia\roboty\aplikacja_gotowa\jeszczeJednaKopia\WindowsFormsApp1 — kopia\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
